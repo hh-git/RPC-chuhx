@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PRC-chuhx.iml" filepath="$PROJECT_DIR$/PRC-chuhx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloserver/helloserver.iml" filepath="$PROJECT_DIR$/helloserver/helloserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hellpclient/hellpclient.iml" filepath="$PROJECT_DIR$/hellpclient/hellpclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-client/rpc-client.iml" filepath="$PROJECT_DIR$/rpc-client/rpc-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-common/rpc-common.iml" filepath="$PROJECT_DIR$/rpc-common/rpc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-registry/rpc-registry.iml" filepath="$PROJECT_DIR$/rpc-registry/rpc-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-sample-api/rpc-sample-api.iml" filepath="$PROJECT_DIR$/rpc-sample-api/rpc-sample-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-server/rpc-server.iml" filepath="$PROJECT_DIR$/rpc-server/rpc-server.iml" />
+    </modules>
+  </component>
+</project>
